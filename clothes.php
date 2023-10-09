@@ -36,7 +36,7 @@
                     </a>
                 </li>
                 <li>
-                    <a href="payroll.php" class="nav-link text-white mb-4">
+                    <a href="Payroll_page.php" class="nav-link text-white mb-4">
                         Payroll
                     </a>
                 </li>
